@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hrithik Lal</h1>
 <h3 align="center">A Data science and Machine Learning enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leohrithik&label=Profile%20views&color=0e75b6&style=flat" alt="leohrithik" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leohrithik&label=Profile%20views&color=0e75b6&style=flat" alt="leohrithik" /> </p>
 
+- 💬 Ask me about **Python,Machine Learning!!**
 - 📫 How to reach me **hrithikleo624@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
