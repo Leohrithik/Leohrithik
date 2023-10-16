@@ -1,6 +1,6 @@
 
 ## Hi there, Hrithik here 👋🏼
-[![Gmail Badge](https://img.shields.io/badge/-nandinisingh5may@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hrithikleo624@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-hrithikleo624@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hrithikleo624@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Nandini%20Singh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-lal-606532223/ "Connect on LinkedIn")
 
 ---
